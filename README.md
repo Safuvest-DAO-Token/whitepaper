@@ -1,2 +1,1 @@
-# whitepaper
-Safuvest Whitepaper
+
